@@ -23,5 +23,6 @@ public class Main {
         double mean = descriptiveStatistics.getMean();
         double median = descriptiveStatistics.getPercentile(50);
         double standardDeviation = descriptiveStatistics.getStandardDeviation();
+
     }
 }
